@@ -1,11 +1,11 @@
 # Student, willing to learn anything and colaborate with anyone
-## Aiming to work in something related to Operating Systems
-## I'm currently usign Linux and learning everything related to it
 
-- 🔭 I’m currently working on My integrative project
-- 🌱 I’m currently learning C, C++ and Rust
-- 👯 I’m looking to collaborate on any project in Rust
-- 📫 How to reach me: email me at samueloo05@gmail.com
+- Aiming to work in something related to Operating Systems
+- I'm currently usign Linux and learning everything related to it
+- I’m currently working on My integrative project
+- I’m currently learning C, C++ and Rust
+- I’m looking to collaborate on any project in Rust
+- How to reach me: email me at samueloo05@gmail.com
 
 ## Technologies I know
 ### Operating Systems
