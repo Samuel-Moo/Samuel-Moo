@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 - 🔭 I’m currently working on My integrative project
 - 🌱 I’m currently learning C, C++ and Rust
